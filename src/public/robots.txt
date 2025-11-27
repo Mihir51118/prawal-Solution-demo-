@@ -1,0 +1,35 @@
+# Robots.txt for Prawal Solution Pvt Ltd
+# https://prawalsolution.com
+
+# Allow all search engines to index the website
+User-agent: *
+Allow: /
+
+# Disallow admin or private sections (if any)
+# Disallow: /admin/
+# Disallow: /private/
+
+# Sitemap location
+Sitemap: https://prawalsolution.com/sitemap.xml
+
+# Crawl-delay (optional - helps prevent server overload)
+Crawl-delay: 10
+
+# Specific rules for popular search engines
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 5
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 5
+
+User-agent: Slurp
+Allow: /
+
+# Block bad bots (optional)
+User-agent: AhrefsBot
+Crawl-delay: 30
+
+User-agent: SemrushBot
+Crawl-delay: 30

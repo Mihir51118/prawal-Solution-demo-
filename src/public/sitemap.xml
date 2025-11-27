@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://prawalsolution.com/</loc>
+    <lastmod>2025-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Main Pages -->
+  <url>
+    <loc>https://prawalsolution.com/about</loc>
+    <lastmod>2025-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://prawalsolution.com/contact</loc>
+    <lastmod>2025-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://prawalsolution.com/blog</loc>
+    <lastmod>2025-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Category Pages -->
+  <url>
+    <loc>https://prawalsolution.com/business-services</loc>
+    <lastmod>2025-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://prawalsolution.com/digital-services</loc>
+    <lastmod>2025-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://prawalsolution.com/legal-compliance</loc>
+    <lastmod>2025-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://prawalsolution.com/certifications</loc>
+    <lastmod>2025-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Business Services -->
+  <url>
+    <loc>https://prawalsolution.com/msme-loan</loc>
+    <lastmod>2025-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://prawalsolution.com/financial-risk</loc>
+    <lastmod>2025-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://prawalsolution.com/business-setup</loc>
+    <lastmod>2025-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://prawalsolution.com/mergers-acquisitions</loc>
+    <lastmod>2025-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Digital Services -->
+  <url>
+    <loc>https://prawalsolution.com/ecommerce</loc>
+    <lastmod>2025-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://prawalsolution.com/digital-marketing</loc>
+    <lastmod>2025-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://prawalsolution.com/web-app-development</loc>
+    <lastmod>2025-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://prawalsolution.com/blutec-ai</loc>
+    <lastmod>2025-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Legal & Compliance Services -->
+  <url>
+    <loc>https://prawalsolution.com/company-registration</loc>
+    <lastmod>2025-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://prawalsolution.com/startup-india</loc>
+    <lastmod>2025-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Certifications -->
+  <url>
+    <loc>https://prawalsolution.com/iso-certification</loc>
+    <lastmod>2025-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://prawalsolution.com/gem-registration</loc>
+    <lastmod>2025-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://prawalsolution.com/tax-exemption</loc>
+    <lastmod>2025-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://prawalsolution.com/msme-certification</loc>
+    <lastmod>2025-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Blog Posts -->
+  <url>
+    <loc>https://prawalsolution.com/blog/complete-guide-msme-loans-2025</loc>
+    <lastmod>2025-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://prawalsolution.com/blog/digital-marketing-strategies-small-businesses</loc>
+    <lastmod>2025-11-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://prawalsolution.com/blog/gst-registration-guide-2025</loc>
+    <lastmod>2025-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://prawalsolution.com/blog/startup-india-registration-benefits</loc>
+    <lastmod>2025-11-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://prawalsolution.com/blog/iso-certification-complete-guide</loc>
+    <lastmod>2025-11-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://prawalsolution.com/blog/financial-planning-startups</loc>
+    <lastmod>2025-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+</urlset>
